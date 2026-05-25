@@ -1,0 +1,28 @@
+{
+  "name": "experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "format": "prettier --write *.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nopphagaw-T/experiment.git"
+  },
+  "keywords": [],
+  "author": "Nopphagaw.T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nopphagaw-T/experiment/issues"
+  },
+  "homepage": "https://github.com/Nopphagaw-T/experiment#readme",
+  "devDependencies": {
+    "prettier": "^3.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
